@@ -1,0 +1,51 @@
+18:36:34.299 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+18:36:34.856 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:36:35.284 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+18:36:35.287 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:36:36.530 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:36:36.567 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finished  verify_account_registration *******
+18:46:59.705 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+18:46:59.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:47:00.174 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+18:47:00.176 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:47:00.834 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:32:11.248 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+20:32:11.683 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+20:32:12.070 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+20:32:12.072 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:32:13.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:32:13.429 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+20:32:13.429 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debugger logs
+20:32:56.743 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+20:32:57.043 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+20:32:57.464 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+20:32:57.466 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:32:58.655 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:32:58.696 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+20:32:58.696 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debugger logs
+20:33:57.249 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+20:33:57.358 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+20:33:57.657 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+20:33:57.658 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:33:58.911 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:33:58.963 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finished  verify_account_registration *******
+20:35:16.340 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+20:35:16.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+20:35:17.033 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+20:35:17.036 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:35:18.734 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:35:18.781 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+20:36:22.280 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+20:36:22.416 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+20:36:23.358 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+20:36:23.361 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:36:24.842 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:36:24.873 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+20:36:24.873 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debugger logs
+20:55:16.120 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
+20:55:16.231 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+20:55:16.528 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link
+20:55:16.530 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+20:55:17.798 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:55:17.836 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Finished  verify_account_registration *******
+20:56:06.991 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting  verify_account_registration *******
